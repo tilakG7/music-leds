@@ -1,7 +1,7 @@
 # Music LEDs
 
 ## Description
-Checkout videos [here](https://www.youtube.com/watch?v=JqFhMSmfuxY) and [here](https://www.youtube.com/watch?v=llXvh4BSNa4). LEDs synchronized with music to help visualize sound and create cool visual lighting. LEDs primarily react to the rhythm and beats of a song.
+Check videos of this project: [https://www.youtube.com/watch?v=JqFhMSmfuxY](https://www.youtube.com/watch?v=JqFhMSmfuxY) and [https://www.youtube.com/watch?v=llXvh4BSNa4](https://www.youtube.com/watch?v=llXvh4BSNa4). LEDs synchronized with music to help visualize sound and create cool visual lighting. LEDs primarily react to the rhythm and beats of a song.
 
 ## Firmware/Software
 This project uses the [Processing](https://processing.org/) software to analyse sound. It then communicates with the Particle Core via USB to switch LED colors using the Core's PWM pins. Beats are detected in the music and the brightness of the LEDs color is set accordingly. Communication between the computer software and the core is handled by a lightweight custom serial communication protocol. This minimizes any unwanted flicker in the LEDs due to delay of sound processing.
