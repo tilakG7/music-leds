@@ -1,7 +1,7 @@
 # Music LEDs
 
 ## Description
-Check videos of this project: [here](https://www.youtube.com/watch?v=JqFhMSmfuxY) and [here](https://www.youtube.com/watch?v=llXvh4BSNa4). 
+Check out videos of this project: [here](https://www.youtube.com/watch?v=JqFhMSmfuxY) and [here](https://www.youtube.com/watch?v=llXvh4BSNa4). 
 
 LEDs synchronized with music to help visualize sound and create cool visual lighting. LEDs primarily react to the rhythm and beats of a song.
 
